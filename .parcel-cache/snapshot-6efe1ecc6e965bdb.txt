@@ -1,21 +1,4 @@
-7232
-73C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib133684665747089513 1
-120C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gappinfo.h133117882010000000 0
-80C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\entities\package.json133684665760117000 0
-131C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-glyph-item.h133117882010000000 0
-124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\HTMLparser.h133117882010000000 0
-90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\BB.js133684665813466586 0
-77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\msgpackr\unpack.js133684665781929661 0
-48C:\Users\narut\OneDrive\Documentos\git\Parcel\js133684932193751699 1
-87C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\strip-json-comments\index.js133684677401061363 0
-86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\lib\types.js.map133684665818915964 0
-81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\supports-color\license133684665688750749 0
-78C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\weak-lru-cache\dist133684665689739839 1
-61C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.html133685864930634398 0
-134C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertStyleToAttrs.js133684665766013627 0
-90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\_\_super_prop_base133684665863154811 1
-90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\PT.js133684665879915010 0
-91C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\tokenizer\index.cjs133684665827631933 0
+7241
 85C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\svgo\plugins\mergePaths.js133684665820108902 0
 102C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\png.h133117882010000000 0
 63C:\Users\narut\OneDrive\Documentos\git\Parcel\sharp.config.json133684674647380207 0
@@ -34,7 +17,7 @@
 88C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\lib\index.d.ts.map133684665796774009 0
 126C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors133684665787709950 1
 81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\tslib\modules\index.js133684665750179718 0
-58C:\Users\narut\OneDrive\Documentos\git\Parcel\package.json133684677516236687 0
+58C:\Users\narut\OneDrive\Documentos\git\Parcel\package.json133685871889570148 0
 75C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\lmdb\src\txn.cpp133684665834004891 0
 77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\.package-lock.json133684677521194386 0
 79C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\packager-raw133684665740317732 1
@@ -79,6 +62,7 @@
 84C:\Users\narut\OneDrive\Documentos\git\Parcel\src\images\Alexander Aronowitz (1).mp4133685439823361983 0
 112C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\resample.h133117882010000000 0
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib\array-set.js133684665703682140 0
+72C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.194764fb.js.map133685872055361281 0
 93C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\core\src\serializerCore.js133684665845388776 0
 77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\lib\esm133684665830621222 1
 87C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\cosmiconfig\dist\readFile.js133684665747027847 0
@@ -86,6 +70,25 @@
 56C:\Users\narut\OneDrive\Documentos\git\Parcel\.gitignore133684674897988297 0
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\lib\utils\clone.js133684665844784591 0
 81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\commander\package.json133684665702377032 0
+73C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib133684665747089513 1
+120C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gappinfo.h133117882010000000 0
+80C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\entities\package.json133684665760117000 0
+131C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-glyph-item.h133117882010000000 0
+124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\HTMLparser.h133117882010000000 0
+90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\BB.js133684665813466586 0
+77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\msgpackr\unpack.js133684665781929661 0
+48C:\Users\narut\OneDrive\Documentos\git\Parcel\js133684932193751699 1
+87C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\strip-json-comments\index.js133684677401061363 0
+86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\lib\types.js.map133684665818915964 0
+110C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gio-win32-2.0133684677455614997 1
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\shadowdom.js133684665881183054 0
+116C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc133684665758870216 1
+112C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin\svgo133684665695633480 0
+83C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib\base64.js133684665714504010 0
+78C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\lib\output.js133684677411343911 0
+130C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\schemasInternals.h133117882010000000 0
+143C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133684665830705883 0
+59C:\Users\narut\OneDrive\Documentos\git\Parcel\.vercelignore133685877376578068 0
 71C:\Users\narut\OneDrive\Documentos\git\Parcel\src\images\faltam (1).png133684963255267072 0
 104C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4133684677482360948 1
 91C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\tar-fs\test\fixtures\a\hello.txt133684677408793940 0
@@ -100,7 +103,7 @@
 80C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\_\_using133684665865617981 1
 99C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\build\Release\sharp-win32-x64.node133161123960000000 0
 107C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\fontconfig133117882010000000 1
-50C:\Users\narut\OneDrive\Documentos\git\Parcel\dist133685867425510081 1
+50C:\Users\narut\OneDrive\Documentos\git\Parcel\dist133685891710374412 1
 65C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\braces133684665729967518 1
 77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\utility-types\dist133684665765116247 1
 83C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\normalize-path\README.md133684672293728514 0
@@ -142,7 +145,7 @@
 95C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\transformer-babel\lib\jsx.js133684665762695568 0
 73C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\node-addon-api133684665766132664 1
 56C:\Users\narut\OneDrive\Documentos\git\Parcel\src\images133685808609055300 1
-60C:\Users\narut\OneDrive\Documentos\git\Parcel\src\index.html133685864979393428 0
+60C:\Users\narut\OneDrive\Documentos\git\Parcel\src\index.html133685888563538547 0
 119C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gshell.h133117882010000000 0
 88C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sass\types\value\boolean.d.ts133684672300974550 0
 73C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\rc\test\ini.js133684677406906105 0
@@ -154,7 +157,7 @@
 57C:\Users\narut\OneDrive\Documentos\git\Parcel\src\scripts133684668937786869 1
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\MV.js133684665876740836 0
 84C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\posthtml-render\readme.md133684665721397033 0
-66C:\Users\narut\OneDrive\Documentos\git\Parcel\src\styles\main.scss133685867407042351 0
+66C:\Users\narut\OneDrive\Documentos\git\Parcel\src\styles\main.scss133685891698387487 0
 124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-deprecated.h133117882010000000 0
 65C:\Users\narut\OneDrive\Documentos\git\Parcel\src\scripts\main.js133684666315366312 0
 89C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\nth-check\lib\compile.d.ts.map133684665731114536 0
@@ -812,7 +815,7 @@
 72C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\svgo\bin\svgo133684665702580197 0
 98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\transformer-babel\src\babel7.js133684665734844925 0
 104C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\cosmiconfig\dist\canUseDynamicImport.d.ts.map133684665760516253 0
-73C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js.map133685867421833478 0
+73C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js.map133685891706234641 0
 69C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\simple-get133684677403449096 1
 73C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\simple-swizzle133684677403097544 1
 124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js133684665760988746 0
@@ -909,6 +912,8 @@
 75C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\wrappy\wrappy.js133684677402290102 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\github-from-package\test\d.json133684677407409407 0
 76C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\binding.gyp133684677409159598 0
+81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\supports-color\license133684665688750749 0
+78C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\weak-lru-cache\dist133684665689739839 1
 89C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\svgo\plugins\removeComments.js133684665828694849 0
 118C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\grand.h133117882010000000 0
 126C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-http.h133117882010000000 0
@@ -1466,6 +1471,7 @@
 123C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlregexp.h133117882010000000 0
 94C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\svgo\plugins\cleanupListOfValues.js133684665814134470 0
 85C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\lib\data-patch.js133684665847848984 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (3).17ce3dc7.png133685872022120494 0
 79C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\profiler\lib133684665767149260 1
 104C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\posthtml\node_modules\posthtml-parser\license133684665743037224 0
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\dom-serializer\package.json133684665717725796 0
@@ -1702,11 +1708,6 @@
 85C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\source-map.d.ts133684665755540899 0
 110C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\node_modules\dom-serializer\lib\index.js133684665755676061 0
 126C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gbookmarkfile.h133117882010000000 0
-110C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\gio-win32-2.0133684677455614997 1
-98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\shadowdom.js133684665881183054 0
-116C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc133684665758870216 1
-112C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin\svgo133684665695633480 0
-83C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib\base64.js133684665714504010 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib\binary-search.js133684665723882817 0
 109C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\csso\node_modules\css-tree\cjs\tokenizer\types.cjs133684665838794377 0
 88C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\source-map\lib\source-node.js133684665745115310 0
@@ -1966,7 +1967,7 @@
 71C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\once\LICENSE133684677401147161 0
 110C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\object.h133117882010000000 0
 98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\atob-btoa.js133684665790779005 0
-98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (1).001e0e06.png133685867421354705 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (1).001e0e06.png133685891705024206 0
 110C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\region.h133117882010000000 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\KE.js133684665872274073 0
 113C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\semaphore.h133117882010000000 0
@@ -2163,8 +2164,6 @@
 118C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-version.h133117882010000000 0
 95C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\.bin\download-msgpackr-prebuilds.ps1133684665916066714 0
 117C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\SAX.h133117882010000000 0
-78C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\lib\output.js133684677411343911 0
-130C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\schemasInternals.h133117882010000000 0
 96C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\esm\_get_prototype_of.js133684665842899184 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\src\_construct.mjs133684665867699974 0
 121C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\threads.h133117882010000000 0
@@ -3315,6 +3314,7 @@
 139C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133684665916237176 0
 116C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\node-releases\data\release-schedule\release-schedule.json133684665703843455 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\DM.js133684665860329200 0
+83C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Alexander Aronowitz.aa9abd4b.mp4133685872027731818 0
 99C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\node-gyp-build-optional-packages\LICENSE133684665691465356 0
 81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\js-tokens\package.json133684665693933387 0
 101C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133684665755981702 0
@@ -3372,7 +3372,7 @@
 88C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\napi-build-utils\package.json133684677402669134 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\AG.js133684665736532498 0
 114C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133684665820776697 0
-68C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.c5c5a49c.js133685867421344839 0
+68C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.c5c5a49c.js133685891705854047 0
 85C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\color-convert\CHANGELOG.md133684665693813304 0
 85C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\napi-build-utils\README.md133684677404485405 0
 79C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\msgpackr-extract\bin133684665700662273 1
@@ -3781,7 +3781,7 @@
 80C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\is-arrayish\README.md133684665697164529 0
 118C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133684665721674198 0
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\VN.js133684665884510456 0
-98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (2).932defa6.png133685867421354705 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (2).932defa6.png133685891705190927 0
 69C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\ini\ini.js133684677400023189 0
 70C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\ini\LICENSE133684677397913147 0
 75C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\ini\package.json133684677401031433 0
@@ -3874,7 +3874,7 @@
 117C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.js133684665750051010 0
 105C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\_\_apply_decs_2203_r\package.json133684665849685463 0
 91C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\htmlnano\lib\presets\ampSafe.mjs133684665827778321 0
-58C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts133685867421973072 1
+58C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts133685891706234641 1
 83C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\domhandler\lib\node.d.ts133684665729263064 0
 87C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\htmlnano\lib\presets\max.cjs133684665752972341 0
 100C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133684665744166685 0
@@ -4187,7 +4187,7 @@
 99C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133684665745165240 0
 100C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\core\src\requests\AssetRequest.js133684665793732030 0
 103C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133684665726966346 0
-57C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles133685867421983032 1
+57C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles133685891706234641 1
 90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\dom-serializer\lib\esm\index.js133684665701783662 0
 81C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\detect-libc\.npmignore133684665699686726 0
 74C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\detect-libc\bin133684665712820170 1
@@ -4775,6 +4775,11 @@
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\utils\List.cjs133684665829339742 0
 88C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\utils\string.cjs133684665836666900 0
 98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133684665699175553 0
+61C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.html133685891705190927 0
+134C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertStyleToAttrs.js133684665766013627 0
+90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@swc\helpers\_\_super_prop_base133684665863154811 1
+90C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\regions\PT.js133684665879915010 0
+91C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\tokenizer\index.cjs133684665827631933 0
 91C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\tokenizer\names.cjs133684665832187185 0
 99C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\object-fit.js133684665877694400 0
 102C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133684665833203907 0
@@ -5598,7 +5603,7 @@
 98C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\packager-css\lib\CSSPackager.js133684665733516696 0
 99C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\ogg-vorbis.js133684665878074704 0
 102C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\online-status.js133684665878296356 0
-70C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js.map133685867421833478 0
+70C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js.map133685891706234641 0
 107C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\orientation-sensor.js133684665878360054 0
 102C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\pad-start-end.js133684665878495060 0
 111C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\caniuse-lite\data\features\page-transition-events.js133684665878517532 0
@@ -6164,7 +6169,7 @@
 77C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\diagnostic133684665757132472 1
 69C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\fs133684665782910318 1
 72C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\graph133684665780964131 1
-78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Happy New Year.76cf2464.mp4133685867422827219 0
+78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Happy New Year.76cf2464.mp4133685891706709600 0
 80C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\namer-default133684665745531873 1
 123C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.js133684665787779817 0
 82C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-image133684665742695968 1
@@ -6746,7 +6751,7 @@
 126C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.d.ts.map133684665760138526 0
 138C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Declaration.js133684665791196334 0
 124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts133684665785094377 0
-66C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js133685867421344839 0
+66C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js133685891705854047 0
 117C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.js133684665740947004 0
 120C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts133684665789882622 0
 105C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\core\src\registerCoreWithSerializer.js133684665843390692 0
@@ -6818,7 +6823,7 @@
 108C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist133684665771162695 1
 126C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_transforms.js133684665715741209 0
 122C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\stringifier.js133684665819185160 0
-66C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles\main.css133685867421344839 0
+66C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles\main.css133685891705854047 0
 115C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo.js133684665828905336 0
 116C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\types.ts133684665830271263 0
 119C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\coa.js133684665753089294 0
@@ -6880,7 +6885,6 @@
 124C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope133684665840088272 1
 132C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common133684665835649941 1
 138C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133684665830436945 0
-143C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133684665830705883 0
 140C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133684665831783309 0
 136C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133684665835872207 0
 139C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133684665832272060 0
@@ -6888,7 +6892,7 @@
 151C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133684665832446723 0
 140C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133684665709919849 0
 135C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Brackets.js133684665737472209 0
-72C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.c5c5a49c.js.map133685867422647775 0
+72C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.c5c5a49c.js.map133685891706023118 0
 140C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\ClassSelector.js133684665753435357 0
 136C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Dimension.js133684665793310851 0
 104C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133684665743966285 0
@@ -7207,13 +7211,18 @@
 74C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\.bin\semver.cmd133684665916076685 0
 72C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\.bin\svgo.ps1133684665916088174 0
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\node_modules\.bin\update-browserslist-db133684665916088174 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (1).1357ab4d.png133685872022040735 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (2).bdf1f59f.png133685872022050699 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (4).545cb3b6.png133685872022130452 0
 105C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (4).fa041061.png.784.20133685828843801681 0
 92C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Alexander Aronowitz.f8b4fb28.mp4.11540.3t133685446612180077 0
 91C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Alexander Aronowitz.f8b4fb28.mp4.7568.33133685535333331618 0
 76C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Atrações (1).4b0dab7b.png133685601123335751 0
 108C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Convite neon aniversário colorido neon preto.6f16b4ac.mp4133685802861761203 0
 70C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\faltam.28c0f094.png133684958106907017 0
+78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Happy New Year.539a3d20.mp4133685872023135217 0
 86C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Happy New Year.76cf2464.mp4.2896.2l133685819760417704 0
+68C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.194764fb.js133685872054992272 0
 72C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\index.f75de5e1.js.map133684903089022162 0
 82C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js.map.11188.58133685811086164921 0
 81C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js.map.5916.7m133684960097951298 0
@@ -7226,8 +7235,8 @@
 78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js.map.6084.2g133684934176288538 0
 78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js.map.6828.17133685449425018518 0
 78C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\scripts\main.js.map.7324.1i133685462826815069 0
-83C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Alexander Aronowitz.f8b4fb28.mp4133685865993815304 0
-69C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js133685867421344839 0
-98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (3).6f44cc1c.png133685867421354705 0
-98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (4).fa041061.png133685867421364709 0
-70C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles\main.css.map133685867421833478 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (3).6f44cc1c.png133685891705190927 0
+98C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\16082025  2000  Party clube-sp (4).fa041061.png133685891705190927 0
+69C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Parcel.59712999.js133685891705854047 0
+70C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\styles\main.css.map133685891706234641 0
+83C:\Users\narut\OneDrive\Documentos\git\Parcel\dist\Alexander Aronowitz.f8b4fb28.mp4133685891710374412 0

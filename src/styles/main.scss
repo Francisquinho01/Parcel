@@ -86,6 +86,7 @@ header {
   margin-top: 20px; 
 }
 
+
 video {
   margin-top: -6%;
   width: 100%;
@@ -355,9 +356,23 @@ button:hover {
     font-size: 0.8em;
     gap: 8px;
   }
+  .video-container {
+    padding-top: 2%;
+    width: 100%;
+    height: auto;
+    margin-top: 100px; 
+  }
 
   #timer div {
     padding: 2px 6px; 
     border-radius: 10px; 
+  }
+}
+@media (min-width: 600px) and (max-width: 800px) {
+  .video-container {
+    padding-top: 2%;
+    width: 100%;
+    height: auto;
+    margin-top: 100px; 
   }
 }
