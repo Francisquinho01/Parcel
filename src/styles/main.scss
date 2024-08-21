@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,9 +10,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f7f7f7;
+  overflow-x: hidden; 
 }
-
-
 
 header {
   position: fixed;
@@ -21,8 +20,7 @@ header {
   width: 100%;
   background-color: white;
   color: white;
-  padding: 5px 10px; 
-
+  padding: 5px 10px;
   z-index: 1000;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -34,14 +32,14 @@ header {
 }
 
 .horario {
-  font-size: 1.2em; 
+  font-size: 1.2em;
 }
 
 .ingresso button {
   background-color: chartreuse;
   color: black;
   border: none;
-  padding: 8px 16px; 
+  padding: 8px 16px;
   font-size: 10px;
   cursor: pointer;
   border-radius: 5px;
@@ -51,8 +49,6 @@ header {
   background-color: greenyellow;
   color: white;
 }
-
-
 
 .cronometro {
   display: flex;
@@ -80,19 +76,12 @@ header {
   100% { opacity: 1; }
 }
 
-@keyframes animate {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
 .video-container {
   padding-top: 2%;
   width: 100%;
   height: auto;
-  margin-top: 20px; 
+  margin-top: 20px;
 }
-
 
 video {
   margin-top: -6%;
@@ -101,65 +90,55 @@ video {
   object-fit: cover;
   border-radius: 20px;
 }
-#b1{
 
+#b1 {
   width: 100%;
   background-color: chartreuse;
 }
-#b1 :hover{
-
-  width: 100%;
-  background-color: green;
-}
-
 
 .attraction-card {
-  width: 200px; 
-  height: 200px; 
-  border: 2px solid #ddd; 
-  border-radius: 10px; 
-  overflow: hidden; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-  background-color: #fff; 
-  transition: transform 0.3s, box-shadow 0.3s; 
-  padding: 10px; 
-  position: relative; 
+  width: 200px;
+  height: 200px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  transition: transform 0.3s, box-shadow 0.3s;
+  padding: 10px;
+  position: relative;
   border-color: chartreuse;
 }
 
-
 .attraction-card:hover {
-  transform: scale(1.05); 
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); 
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
-
 
 .attraction-image {
   width: 100%;
-  height: 100%; 
+  height: 100%;
   object-fit: cover;
-  border-bottom: 2px solid #ddd; 
-  border-radius: 8px 8px 0 0; 
-  transition: opacity 0.3s; 
+  border-bottom: 2px solid #ddd;
+  border-radius: 8px 8px 0 0;
+  transition: opacity 0.3s;
   position: absolute;
-  top: 0; 
-  left: 0; 
+  top: 0;
+  left: 0;
   border-color: chartreuse;
 }
 
-
 .attraction-card:hover .attraction-image {
-  opacity: 0.8; 
+  opacity: 0.8;
 }
-
 
 .attraction-info {
   padding: 10px;
-  position: absolute; 
-  bottom: 0; 
-  left: 0; 
+  position: absolute;
+  bottom: 0;
+  left: 0;
   width: 100%;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
 .attraction-info h3 {
@@ -174,43 +153,43 @@ video {
   margin: 5px 0 0;
 }
 
-#az{
- text-align:center;
- padding-bottom: 2%;
+#az {
+  text-align: center;
+  padding-bottom: 2%;
 }
 
 h1 {
   font-size: 50px;
   color: chartreuse;
   text-align: center;
-  
   animation: pulse 2s infinite;
 }
 
-
 @keyframes pulse {
   0% {
-      transform: scale(1);
+    transform: scale(1);
   }
   50% {
-      transform: scale(1.2);
+    transform: scale(1.2);
   }
   100% {
-      transform: scale(1);
+    transform: scale(1);
   }
 }
-#v1{
+
+#v1 {
   max-width: 50%;
   max-height: 50%;
-bottom: 50%;
+  bottom: 50%;
 }
 
-#ay{
+#ay {
   padding: 2%;
   padding-bottom: 5%;
 }
+
 #i {
-  animation: rotate 10s linear infinite; 
+  animation: rotate 10s linear infinite;
   overflow: hidden;
   margin-top: 6%;
   border-radius: 30px;
@@ -230,12 +209,13 @@ bottom: 50%;
   height: auto;
   object-fit: cover;
 }
+
 .faq-section {
-  background-color:white; 
-  padding: 40px 20px; 
-  border-radius: 10px; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-  color: #333; 
+  background-color: white;
+  padding: 40px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: #333;
 }
 
 .faq-section h2 {
@@ -247,10 +227,10 @@ bottom: 50%;
 
 .faq-item {
   margin-bottom: 20px;
-  background-color:white; 
-  border-radius: 8px; 
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
-  overflow: hidden; 
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
 }
 
 .faq-item h3 {
@@ -263,29 +243,30 @@ bottom: 50%;
 }
 
 .faq-item h3:hover {
-  background-color: blueviolet
+  background-color: blueviolet;
 }
 
 .faq-item p {
-  display: none; 
+  display: none;
   padding: 15px;
   font-size: 1em;
   line-height: 1.5;
   color: #666;
 }
+
 .contact-section {
-  background-color: chartreuse; 
-  padding: 40px 20px; 
-  border-radius: 10px; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-  color: #333; 
+  background-color: chartreuse;
+  padding: 40px 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: #333;
 }
 
 .contact-section h2 {
   text-align: center;
   font-size: 2em;
   margin-bottom: 20px;
-  color: #000; 
+  color: #000;
 }
 
 .form-group {
@@ -307,7 +288,7 @@ bottom: 50%;
 }
 
 .form-group textarea {
-  resize: vertical; 
+  resize: vertical;
 }
 
 button {
@@ -316,7 +297,7 @@ button {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  background-color: greenyellow; 
+  background-color: greenyellow;
   color: black;
   font-size: 1em;
   cursor: pointer;
@@ -324,57 +305,26 @@ button {
 }
 
 button:hover {
-  background-color: green; 
-  color: white;
-}
-#ak1{
+  background-color: green;
   color: white;
 }
 
-
-
-.cronometro {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+#ak1 {
+  color: white;
 }
-
-#timer {
-  display: flex;
-  gap: 10px; 
-  font-size: 1em; 
-  color: black;
-}
-
-#timer div {
-  background-color: chartreuse;
-  padding: 3px 8px; 
-  border-radius: 12px; 
-  opacity: 0;
-  animation: fadeIn 1s forwards;
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
 
 @media (max-width: 1024px) {
   #timer {
     font-size: 0.8em;
     gap: 8px;
   }
+
   .video-container {
-    padding-top: 2%;
-    width: 100%;
-    height: auto;
-    margin-top: 100px; 
+    margin-top: 100px;
   }
 
   #timer div {
-    padding: 2px 6px; 
-    border-radius: 10px; 
+    padding: 2px 6px;
+    border-radius: 10px;
   }
 }
-
